@@ -1,0 +1,23 @@
+body {
+  background-color: #ffeef2;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.card {
+  background-color: #fff0f5;
+  border: 2px solid #f8bbd0;
+  border-radius: 12px;
+}
+
+.navbar {
+  background-color: #ffc0cb !important;
+}
+
+.btn-success {
+  background-color: #ff69b4;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #ff85c1;
+}
